@@ -9,7 +9,8 @@ Wanjiku runs a fresh-produce stall at Gikomba Market in Nairobi. For two weeks s
 
 ## How to run
 
-[![Open in Colab](https://colab.research.google.com/drive/1nhX_3xvsM1hELnqsAVfeE-edY9ccP9u6?usp=sharing)
+[![Open in Colab]
+(https://colab.research.google.com/drive/1nhX_3xvsM1hELnqsAVfeE-edY9ccP9u6)
 
 Click the badge, then choose **Runtime → Run all**.
 
